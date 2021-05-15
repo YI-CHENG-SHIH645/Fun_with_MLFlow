@@ -4,7 +4,7 @@
 
 > create repo "Fun_with_MLFlow" on github
 
-> git remote add -u origin master <repo URL>
+> git remote add -u origin master "repo URL"
 
 > 寫好一個 Dockerfile
 
