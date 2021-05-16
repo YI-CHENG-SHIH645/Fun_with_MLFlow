@@ -1,4 +1,4 @@
-# Fun_with_MLFlow
+# Fun_with_MLFlow (hw assignment)
 
 > mkdir Fun_with_MLFlow && cd Fun_with_MLFlow && git init
 
