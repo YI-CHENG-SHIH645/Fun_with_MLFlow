@@ -1,4 +1,4 @@
-# Fun_with_MLFlow (hw assignment)
+# Fun_with_MLFlow
 
   在 server 上 
 
