@@ -1,4 +1,4 @@
-# Fun_with_MLFlow (hw assignment)
+# Fun_with_MLFlow
 
   在 server 上 
 
@@ -8,7 +8,7 @@
 
   sh build_and_run_image.sh
 
-  sudo docker logs <container ID> (查看token是什麼)
+  sudo docker logs \<container ID\> (查看token是什麼)
 
   得知 token 後連入（public ip + ?token=token），寫 ipynb
 
