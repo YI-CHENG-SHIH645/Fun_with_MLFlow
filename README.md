@@ -10,7 +10,7 @@
 
   sudo docker logs <container ID> (查看token是什麼)
 
-  得知 token 後連入，寫 ipynb
+  得知 token 後連入（public ip + ?token=token），寫 ipynb
 
   開一個 terminal， mlflow server --host 0.0.0.0
 
